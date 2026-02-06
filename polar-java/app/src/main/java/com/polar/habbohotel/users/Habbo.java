@@ -1,5 +1,7 @@
 package com.polar.habbohotel.users;
 
+import com.polar.habbohotel.users.messenger.HabboMessenger;
+import com.polar.habboroleplay.roleplayusers.RoleplayUser;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
@@ -40,5 +42,14 @@ public class Habbo {
     @Column(name = "machine_id")
     private String machineId;
 
-    // TODO: Add more fields and components (Messenger, Inventory, etc.)
+    @Transient
+    private HabboMessenger messenger;
+
+    @OneToOne(fetch = FetchType.LAZY)
+    @PrimaryKeyJoinColumn
+    private RoleplayUser roleplayUser;
+
+    public void init() {
+        this.messenger = new HabboMessenger(id);
+    }
 }

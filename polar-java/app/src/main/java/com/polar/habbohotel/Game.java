@@ -6,6 +6,9 @@ import com.polar.habbohotel.items.ItemDataManager;
 import com.polar.habbohotel.rooms.RoomManager;
 import com.polar.habbohotel.navigator.NavigatorManager;
 import com.polar.habbohotel.landingview.LandingViewManager;
+import com.polar.habbohotel.groups.GroupManager;
+import com.polar.habbohotel.permissions.PermissionManager;
+import com.polar.habboroleplay.rproom.RPRoomManager;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -24,17 +27,25 @@ public class Game {
     @Getter private final NavigatorManager navigatorManager;
     @Getter private final LandingViewManager landingViewManager;
     @Getter private final GameClientManager gameClientManager;
+    @Getter private final GroupManager groupManager;
+    @Getter private final PermissionManager permissionManager;
+    @Getter private final RPRoomManager rpRoomManager;
 
     @Autowired
     public Game(RoomManager roomManager, ItemDataManager itemDataManager,
                 CatalogManager catalogManager, NavigatorManager navigatorManager,
-                LandingViewManager landingViewManager, GameClientManager gameClientManager) {
+                LandingViewManager landingViewManager, GameClientManager gameClientManager,
+                GroupManager groupManager, PermissionManager permissionManager,
+                RPRoomManager rpRoomManager) {
         this.roomManager = roomManager;
         this.itemDataManager = itemDataManager;
         this.catalogManager = catalogManager;
         this.navigatorManager = navigatorManager;
         this.landingViewManager = landingViewManager;
         this.gameClientManager = gameClientManager;
+        this.groupManager = groupManager;
+        this.permissionManager = permissionManager;
+        this.rpRoomManager = rpRoomManager;
     }
 
     @PostConstruct
@@ -45,15 +56,14 @@ public class Game {
         roomManager.loadModels();
         navigatorManager.init();
         landingViewManager.init();
+        groupManager.init();
+        permissionManager.init();
+        rpRoomManager.init();
     }
 
     @Scheduled(fixedDelay = 500)
     public void gameLoop() {
         try {
-            // Process clients
-            // gameClientManager.onCycle();
-
-            // Process rooms
             roomManager.getRooms().values().forEach(room -> {
                 try {
                     room.onCycle();
