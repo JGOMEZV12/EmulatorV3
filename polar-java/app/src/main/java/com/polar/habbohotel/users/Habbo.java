@@ -1,10 +1,15 @@
 package com.polar.habbohotel.users;
 
+import com.polar.habbohotel.achievements.UserAchievement;
+import com.polar.habbohotel.subscriptions.Subscription;
 import com.polar.habbohotel.users.messenger.HabboMessenger;
 import com.polar.habboroleplay.roleplayusers.RoleplayUser;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
 
 @Getter
 @Setter
@@ -49,7 +54,17 @@ public class Habbo {
     @PrimaryKeyJoinColumn
     private RoleplayUser roleplayUser;
 
+    @Transient
+    private final Map<String, UserAchievement> achievements = new ConcurrentHashMap<>();
+
+    @Transient
+    private final Map<String, Subscription> subscriptions = new ConcurrentHashMap<>();
+
     public void init() {
         this.messenger = new HabboMessenger(id);
+    }
+
+    public UserAchievement getAchievementData(String group) {
+        return achievements.get(group);
     }
 }
