@@ -15,7 +15,10 @@ import com.polar.habbohotel.rooms.RoomManager;
 import com.polar.habbohotel.groups.GroupManager;
 import com.polar.habbohotel.permissions.PermissionManager;
 import com.polar.habbohotel.subscriptions.SubscriptionManager;
+import com.polar.habboroleplay.combat.CombatManager;
 import com.polar.habboroleplay.rproom.RPRoomManager;
+import com.polar.habboroleplay.vehicles.VehicleManager;
+import com.polar.habboroleplay.weapons.WeaponManager;
 import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -44,6 +47,9 @@ public class Game {
     @Getter private final ModerationManager moderationManager;
     @Getter private final PollManager pollManager;
     @Getter private final QuestManager questManager;
+    @Getter private final VehicleManager vehicleManager;
+    @Getter private final WeaponManager weaponManager;
+    @Getter private final CombatManager combatManager;
 
     @Autowired
     public Game(RoomManager roomManager, ItemDataManager itemDataManager,
@@ -53,7 +59,9 @@ public class Game {
                 RPRoomManager rpRoomManager, AchievementManager achievementManager,
                 TalentManager talentManager, BadgeManager badgeManager,
                 SubscriptionManager subscriptionManager, ModerationManager moderationManager,
-                PollManager pollManager, QuestManager questManager) {
+                PollManager pollManager, QuestManager questManager,
+                VehicleManager vehicleManager, WeaponManager weaponManager,
+                CombatManager combatManager) {
         this.roomManager = roomManager;
         this.itemDataManager = itemDataManager;
         this.catalogManager = catalogManager;
@@ -70,6 +78,9 @@ public class Game {
         this.moderationManager = moderationManager;
         this.pollManager = pollManager;
         this.questManager = questManager;
+        this.vehicleManager = vehicleManager;
+        this.weaponManager = weaponManager;
+        this.combatManager = combatManager;
     }
 
     @PostConstruct
@@ -90,6 +101,9 @@ public class Game {
         moderationManager.init();
         pollManager.init();
         questManager.init();
+        vehicleManager.init();
+        weaponManager.init();
+        combatManager.init();
     }
 
     @Scheduled(fixedDelay = 500)

@@ -1,5 +1,8 @@
 package com.polar.habboroleplay.roleplayusers;
 
+import com.polar.habboroleplay.timers.TimerManager;
+import com.polar.habboroleplay.cooldowns.CooldownManager;
+import com.polar.habbohotel.gameclients.GameClient;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
@@ -60,5 +63,14 @@ public class RoleplayUser {
     @Column(name = "bank_savings")
     private int bankSavings;
 
-    // TODO: Add remaining fields from rp_stats table
+    @Transient
+    private TimerManager timerManager;
+
+    @Transient
+    private CooldownManager cooldownManager;
+
+    public void init(GameClient client) {
+        this.timerManager = new TimerManager(client);
+        this.cooldownManager = new CooldownManager(client);
+    }
 }
