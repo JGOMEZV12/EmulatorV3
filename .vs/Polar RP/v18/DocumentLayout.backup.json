@@ -1,0 +1,1395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\types\\servingbots\\servingtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\types\\servingbots\\servingtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\types\\servingbots\\foodserverbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\types\\servingbots\\foodserverbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\types\\servingbots\\drinkserverbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\types\\servingbots\\drinkserverbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\food\\foodwebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\food\\foodwebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\roleplaybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\roleplaybot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\manager\\roleplaybotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\manager\\roleplaybotmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\general\\taxicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\general\\taxicommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\police\\stuncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\police\\stuncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\administrators\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\administrators\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\ai\\types\\genericbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\ai\\types\\genericbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\rooms\\settings\\getroomsettingsevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\rooms\\settings\\getroomsettingsevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\rooms\\engine\\moveobjectevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\rooms\\engine\\moveobjectevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\navigator\\gotohotelviewevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\navigator\\gotohotelviewevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\rooms\\engine\\getroomentrydataevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\rooms\\engine\\getroomentrydataevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\gameclients\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\gameclients\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\combat\\types\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\combat\\types\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\timers\\types\\jailtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\timers\\types\\jailtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\police\\arrestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\police\\arrestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\offers\\givecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\offers\\givecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\misc\\roleplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\misc\\roleplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\administrators\\adminjailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\administrators\\adminjailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\events\\methods\\onhealthchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\events\\methods\\onhealthchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\special rights\\globalgivecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\special rights\\globalgivecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\roommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\offers\\sellcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\offers\\sellcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\phones\\phonewebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\phones\\phonewebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\roomitemhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\roomitemhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\offers\\acceptcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\offers\\acceptcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\statistics\\getusercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\statistics\\getusercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\groups\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\groups\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\purchasefromcatalogevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\purchasefromcatalogevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\combat\\equipcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\combat\\equipcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\roomusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\roomusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\others\\itemwebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\others\\itemwebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\administrators\\rpweaponscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\administrators\\rpweaponscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\core\\connectionmanager\\gamesocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\core\\connectionmanager\\gamesocketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\core\\connectionmanager\\connectioninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\core\\connectionmanager\\connectioninformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\messages\\net\\gamepacketparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\messages\\net\\gamepacketparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\groups\\groupswebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\groups\\groupswebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\outgoing\\messenger\\friendlistupdatecomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\outgoing\\messenger\\friendlistupdatecomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\business\\businesswebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\business\\businesswebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\groups\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\groups\\groupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\hospital\\ponerchalecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\hospital\\ponerchalecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\hospital\\comprarchalecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\jobs\\types\\hospital\\comprarchalecocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\roomuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\roomuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\games\\gameitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\games\\gameitemhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\items\\interactor\\interactorgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\items\\interactor\\interactorgate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\polarenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\polarenvironment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\outgoing\\habbocamera\\sendroomthumbnailalertcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\outgoing\\habbocamera\\sendroomthumbnailalertcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\rooms\\settings\\saveroomsettingsevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\rooms\\settings\\saveroomsettingsevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\apartmentowned\\apartmentownedmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\apartmentowned\\apartmentownedmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\apartments\\apartmentswebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\apartments\\apartmentswebevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\purchasefromcatalogasgiftevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\purchasefromcatalogasgiftevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\catalog\\catalogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\catalog\\catalogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\catalog\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\catalog\\catalogitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\clientpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\clientpacket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\web\\outgoing\\statistics\\initwsdialogues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\web\\outgoing\\statistics\\initwsdialogues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\landingview\\getcommunitygoalhalloffameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\landingview\\getcommunitygoalhalloffameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\misc\\disconnectevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\misc\\disconnectevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\checkgnomenameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\checkgnomenameevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\getcatalogpageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\getcatalogpageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\outgoing\\catalog\\catalogpagecomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\outgoing\\catalog\\catalogpagecomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\outgoing\\catalog\\catalogindexcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\outgoing\\catalog\\catalogindexcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\getcatalogofferevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\getcatalogofferevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\getcatalogmodeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\getcatalogmodeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\catalog\\getcatalogindexevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\catalog\\getcatalogindexevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\habbocamera\\purchasecamerapictureevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\habbocamera\\purchasecamerapictureevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\habbocamera\\habbocamerapicturedataevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\habbocamera\\habbocamerapicturedataevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\camera\\camerahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\camera\\camerahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\moderators\\bancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\moderators\\bancommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\websocket\\encondedecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\websocket\\encondedecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\utilities\\habboencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\utilities\\habboencoding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\interactions\\self\\drivecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\users\\generic\\interactions\\self\\drivecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\outgoing\\catalog\\catalogoffercomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\outgoing\\catalog\\catalogoffercomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\outgoing\\catalog\\purchaseokcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\outgoing\\catalog\\purchaseokcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\communication\\packets\\incoming\\clientpacketheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\communication\\packets\\incoming\\clientpacketheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\catalog\\catalogpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\catalog\\catalogpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\items\\itemdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\items\\itemdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\types\\interactivebots\\attacktimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\types\\interactivebots\\attacktimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habboroleplay\\bots\\types\\interactivebots\\botjailtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habboroleplay\\bots\\types\\interactivebots\\botjailtimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\habbohotel\\rooms\\chat\\commands\\managers\\purgecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\habbohotel\\rooms\\chat\\commands\\managers\\purgecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|c:\\users\\juan\\desktop\\polar-rp-fix-database-errors\\polar rp\\messages\\net\\muscommunication\\incoming\\handshake\\pingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D0B3AB-11D1-4D67-8833-E3B813CE4B3F}|Polar RP\\Polar RP.csproj|solutionrelative:polar rp\\messages\\net\\muscommunication\\incoming\\handshake\\pingevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServingTimer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\ServingTimer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\ServingTimer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\ServingTimer.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\ServingTimer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:22:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodWebEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Food\\FoodWebEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Food\\FoodWebEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Food\\FoodWebEvent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Food\\FoodWebEvent.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwIIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:16:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodServerBot.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\FoodServerBot.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\FoodServerBot.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\FoodServerBot.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\FoodServerBot.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAUwKYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:09:36.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrinkServerBot.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\DrinkServerBot.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\DrinkServerBot.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\DrinkServerBot.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\Types\\ServingBots\\DrinkServerBot.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAcwLEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:08:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleplayBot.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\RoleplayBot.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\RoleplayBot.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\RoleplayBot.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\RoleplayBot.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwLYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:55:00.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleplayBotManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Manager\\RoleplayBotManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\Manager\\RoleplayBotManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Manager\\RoleplayBotManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\Manager\\RoleplayBotManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwFgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:46:14.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaxiCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\General\\TaxiCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\General\\TaxiCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\General\\TaxiCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\General\\TaxiCommand.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAEwDAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:05:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StunCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\StunCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\StunCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\StunCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\StunCommand.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAmwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T04:05:02.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\TextCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\TextCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\TextCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\TextCommand.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T01:58:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoveObjectEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\MoveObjectEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\MoveObjectEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\MoveObjectEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\MoveObjectEvent.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2019-12-07T09:22:09.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetRoomEntryDataEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\GetRoomEntryDataEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\GetRoomEntryDataEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\GetRoomEntryDataEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Engine\\GetRoomEntryDataEvent.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2019-12-07T09:17:33.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GoToHotelViewEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Navigator\\GoToHotelViewEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Navigator\\GoToHotelViewEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Navigator\\GoToHotelViewEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Navigator\\GoToHotelViewEvent.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAUwCgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2019-12-07T09:16:35.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericBot.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\AI\\Types\\GenericBot.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\AI\\Types\\GenericBot.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\AI\\Types\\GenericBot.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\AI\\Types\\GenericBot.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwIwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T02:21:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetRoomSettingsEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\GetRoomSettingsEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\GetRoomSettingsEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\GetRoomSettingsEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\GetRoomSettingsEvent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T19:24:55.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\GameClients\\GameClient.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\GameClients\\GameClient.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\GameClients\\GameClient.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\GameClients\\GameClient.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAYwPAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T22:31:56.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JailTimer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Timers\\Types\\JailTimer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Timers\\Types\\JailTimer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Timers\\Types\\JailTimer.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Timers\\Types\\JailTimer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAEwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T02:20:29.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Room.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Room.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Room.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Room.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAmwCYBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T01:38:37.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameMap.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\GameMap.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\GameMap.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\GameMap.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\GameMap.cs",
+              "ViewState": "AgIAAH8EAAAAAAAAAAAUwJQEAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:10:50.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArrestCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\ArrestCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\ArrestCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\ArrestCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Police\\ArrestCommand.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T03:05:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GiveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\GiveCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\GiveCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\GiveCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\GiveCommand.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T02:13:38.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoleplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Misc\\RoleplayManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Misc\\RoleplayManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Misc\\RoleplayManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Misc\\RoleplayManager.cs",
+              "ViewState": "AgIAAA4IAAAAAAAAAAAmwBgIAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T02:19:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Combat\\Types\\Gun.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Combat\\Types\\Gun.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Combat\\Types\\Gun.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Combat\\Types\\Gun.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwCkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:01:19.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminJailCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\AdminJailCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\AdminJailCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\AdminJailCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\AdminJailCommand.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAIwKMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T02:47:59.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GlobalGiveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Special Rights\\GlobalGiveCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Special Rights\\GlobalGiveCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Special Rights\\GlobalGiveCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Special Rights\\GlobalGiveCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T02:13:37.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OnHealthChange.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Events\\Methods\\OnHealthChange.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Events\\Methods\\OnHealthChange.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Events\\Methods\\OnHealthChange.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Events\\Methods\\OnHealthChange.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAmwJIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T01:56:25.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\RoomManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\RoomManager.cs",
+              "ViewState": "AgIAABMCAAAAAAAAAAAUwCUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:45:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SellCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\SellCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\SellCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\SellCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\SellCommand.cs",
+              "ViewState": "AgIAALACAAAAAAAAAAAUwLsCAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:32:00.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomItemHandling.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomItemHandling.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\RoomItemHandling.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomItemHandling.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\RoomItemHandling.cs",
+              "ViewState": "AgIAAA4DAAAAAAAAAAAEwLECAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:30:49.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PhoneWebEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Phones\\PhoneWebEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Phones\\PhoneWebEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Phones\\PhoneWebEvent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Phones\\PhoneWebEvent.cs",
+              "ViewState": "AgIAAKUDAAAAAAAAAAAmwM0DAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:11:21.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AcceptCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\AcceptCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\AcceptCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\AcceptCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Offers\\AcceptCommand.cs",
+              "ViewState": "AgIAAP8JAAAAAAAAAAAEwBAKAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T22:59:49.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetUserComponent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\GetUserComponent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\GetUserComponent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\GetUserComponent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\GetUserComponent.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T21:35:22.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PurchaseFromCatalogEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogEvent.cs",
+              "ViewState": "AgIAAFsCAAAAAAAAAAAywGoCAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:26:35.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Groups\\Group.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Groups\\Group.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Groups\\Group.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Groups\\Group.cs",
+              "ViewState": "AgIAAMECAAAAAAAAAAAuwMQCAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:30:31.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EquipCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Combat\\EquipCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Combat\\EquipCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Combat\\EquipCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Combat\\EquipCommand.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwHoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T15:27:10.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ItemWebEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Others\\ItemWebEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Others\\ItemWebEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Others\\ItemWebEvent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Others\\ItemWebEvent.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwKEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:39:16.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RPWeaponsCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\RPWeaponsCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\RPWeaponsCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\RPWeaponsCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Administrators\\RPWeaponsCommand.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T13:13:29.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoomUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomUserManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\RoomUserManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomUserManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\RoomUserManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwDMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T02:23:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ConnectionInformation.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Core\\ConnectionManager\\ConnectionInformation.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Core\\ConnectionManager\\ConnectionInformation.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Core\\ConnectionManager\\ConnectionInformation.cs",
+              "RelativeToolTip": "Polar RP\\Core\\ConnectionManager\\ConnectionInformation.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T23:54:37.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GameSocketManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Core\\ConnectionManager\\GameSocketManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Core\\ConnectionManager\\GameSocketManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Core\\ConnectionManager\\GameSocketManager.cs",
+              "RelativeToolTip": "Polar RP\\Core\\ConnectionManager\\GameSocketManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAEwEsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:07:54.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Game.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Game.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Game.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Game.cs",
+              "ViewState": "AgIAAGUCAAAAAAAAAAAUwHECAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T01:12:40.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GamePacketParser.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Messages\\Net\\GamePacketParser.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Messages\\Net\\GamePacketParser.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Messages\\Net\\GamePacketParser.cs",
+              "RelativeToolTip": "Polar RP\\Messages\\Net\\GamePacketParser.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:53:48.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GroupsWebEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Groups\\GroupsWebEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Groups\\GroupsWebEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Groups\\GroupsWebEvent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Groups\\GroupsWebEvent.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:52:13.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BusinessWebEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Business\\BusinessWebEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Business\\BusinessWebEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Business\\BusinessWebEvent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Business\\BusinessWebEvent.cs",
+              "ViewState": "AgIAAAQDAAAAAAAAAAAUwAwDAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T16:57:25.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FriendListUpdateComposer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Messenger\\FriendListUpdateComposer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Outgoing\\Messenger\\FriendListUpdateComposer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Messenger\\FriendListUpdateComposer.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Outgoing\\Messenger\\FriendListUpdateComposer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvyYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:31:05.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PonerchalecoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\PonerchalecoCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\PonerchalecoCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\PonerchalecoCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\PonerchalecoCommand.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAIwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:13:24.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GroupManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Groups\\GroupManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Groups\\GroupManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Groups\\GroupManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Groups\\GroupManager.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAcwEwBAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:43:30.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ComprarChalecoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\ComprarChalecoCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\ComprarChalecoCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\ComprarChalecoCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Jobs\\Types\\Hospital\\ComprarChalecoCommand.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:09:29.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoomUser.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomUser.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\RoomUser.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\RoomUser.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\RoomUser.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T01:11:59.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "GameItemHandler.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Games\\GameItemHandler.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Games\\GameItemHandler.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Games\\GameItemHandler.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Games\\GameItemHandler.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAEwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:29:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "InteractorGate.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Items\\Interactor\\InteractorGate.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Items\\Interactor\\InteractorGate.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Items\\Interactor\\InteractorGate.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Items\\Interactor\\InteractorGate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAEwDMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T00:22:00.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SendRoomThumbnailAlertComposer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\HabboCamera\\SendRoomThumbnailAlertComposer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Outgoing\\HabboCamera\\SendRoomThumbnailAlertComposer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\HabboCamera\\SendRoomThumbnailAlertComposer.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Outgoing\\HabboCamera\\SendRoomThumbnailAlertComposer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:19:43.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PolarEnvironment.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\PolarEnvironment.cs",
+              "RelativeDocumentMoniker": "Polar RP\\PolarEnvironment.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\PolarEnvironment.cs",
+              "RelativeToolTip": "Polar RP\\PolarEnvironment.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T19:30:06.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SaveRoomSettingsEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\SaveRoomSettingsEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\SaveRoomSettingsEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\SaveRoomSettingsEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Rooms\\Settings\\SaveRoomSettingsEvent.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwGcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T23:20:36.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ApartmentOwnedManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\ApartmentOwned\\ApartmentOwnedManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\ApartmentOwned\\ApartmentOwnedManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\ApartmentOwned\\ApartmentOwnedManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\ApartmentOwned\\ApartmentOwnedManager.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAmwHsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T19:23:27.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ApartmentsWebEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Apartments\\ApartmentsWebEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Apartments\\ApartmentsWebEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Apartments\\ApartmentsWebEvent.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Apartments\\ApartmentsWebEvent.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAgwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T19:13:23.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PurchaseFromCatalogAsGiftEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogAsGiftEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogAsGiftEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogAsGiftEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\PurchaseFromCatalogAsGiftEvent.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAvwEgBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:41:29.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CatalogManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Catalog\\CatalogManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Catalog\\CatalogManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Catalog\\CatalogManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Catalog\\CatalogManager.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:44:00.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CatalogItem.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Catalog\\CatalogItem.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Catalog\\CatalogItem.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Catalog\\CatalogItem.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Catalog\\CatalogItem.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAcwCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:47:05.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ClientPacket.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\ClientPacket.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\ClientPacket.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\ClientPacket.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\ClientPacket.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwCMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T00:06:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "InitWSDialogues.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\InitWSDialogues.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\InitWSDialogues.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\InitWSDialogues.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Web\\Outgoing\\Statistics\\InitWSDialogues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T21:35:22.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GetCommunityGoalHallOfFameEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\LandingView\\GetCommunityGoalHallOfFameEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\LandingView\\GetCommunityGoalHallOfFameEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\LandingView\\GetCommunityGoalHallOfFameEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\LandingView\\GetCommunityGoalHallOfFameEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T17:09:48.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DisconnectEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Misc\\DisconnectEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Misc\\DisconnectEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Misc\\DisconnectEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Misc\\DisconnectEvent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:14:34.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CheckGnomeNameEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\CheckGnomeNameEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\CheckGnomeNameEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\CheckGnomeNameEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\CheckGnomeNameEvent.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:12:37.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CatalogIndexComposer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogIndexComposer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogIndexComposer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogIndexComposer.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogIndexComposer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAUwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:11:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CatalogPageComposer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogPageComposer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogPageComposer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogPageComposer.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogPageComposer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswOsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:05:11.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "GetCatalogPageEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogPageEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogPageEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogPageEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogPageEvent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:05:02.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GetCatalogOfferEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogOfferEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogOfferEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogOfferEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogOfferEvent.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:34:35.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetCatalogModeEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogModeEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogModeEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogModeEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogModeEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:06:32.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PurchaseCameraPictureEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\PurchaseCameraPictureEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\PurchaseCameraPictureEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\PurchaseCameraPictureEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\PurchaseCameraPictureEvent.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T15:01:05.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "HabboCameraPictureDataEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\HabboCameraPictureDataEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\HabboCameraPictureDataEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\HabboCameraPictureDataEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\HabboCamera\\HabboCameraPictureDataEvent.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:25:26.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetCatalogIndexEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogIndexEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogIndexEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogIndexEvent.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\Catalog\\GetCatalogIndexEvent.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T00:12:02.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CameraHelper.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Camera\\CameraHelper.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Camera\\CameraHelper.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Camera\\CameraHelper.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Camera\\CameraHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:17:36.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "BanCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Moderators\\BanCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Moderators\\BanCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Moderators\\BanCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Moderators\\BanCommand.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAUwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:16:13.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DriveCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Interactions\\Self\\DriveCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Interactions\\Self\\DriveCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Interactions\\Self\\DriveCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Users\\Generic\\Interactions\\Self\\DriveCommand.cs",
+              "ViewState": "AgIAAFECAAAAAAAAAAAYwFwCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:36:01.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "EncondeDecode.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\WebSocket\\EncondeDecode.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\WebSocket\\EncondeDecode.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\WebSocket\\EncondeDecode.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\WebSocket\\EncondeDecode.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:57:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "HabboEncoding.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Utilities\\HabboEncoding.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Utilities\\HabboEncoding.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Utilities\\HabboEncoding.cs",
+              "RelativeToolTip": "Polar RP\\Utilities\\HabboEncoding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T02:11:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CatalogOfferComposer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogOfferComposer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogOfferComposer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogOfferComposer.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\CatalogOfferComposer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvxIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:14:40.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "PurchaseOKComposer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\PurchaseOKComposer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\PurchaseOKComposer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\PurchaseOKComposer.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Outgoing\\Catalog\\PurchaseOKComposer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwF0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:40:40.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ClientPacketHeader.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\ClientPacketHeader.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Communication\\Packets\\Incoming\\ClientPacketHeader.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Communication\\Packets\\Incoming\\ClientPacketHeader.cs",
+              "RelativeToolTip": "Polar RP\\Communication\\Packets\\Incoming\\ClientPacketHeader.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAmwOYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T03:00:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "CatalogPage.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Catalog\\CatalogPage.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Catalog\\CatalogPage.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Catalog\\CatalogPage.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Catalog\\CatalogPage.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T02:46:46.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ItemDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Items\\ItemDataManager.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Items\\ItemDataManager.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Items\\ItemDataManager.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Items\\ItemDataManager.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T17:17:18.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AttackTimer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\AttackTimer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\AttackTimer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\AttackTimer.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\AttackTimer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAEwGAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T02:11:01.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "BotJailTimer.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\BotJailTimer.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\BotJailTimer.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\BotJailTimer.cs",
+              "RelativeToolTip": "Polar RP\\HabboRoleplay\\Bots\\Types\\InteractiveBots\\BotJailTimer.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:56:12.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "PurgeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Managers\\PurgeCommand.cs",
+              "RelativeDocumentMoniker": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Managers\\PurgeCommand.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Managers\\PurgeCommand.cs",
+              "RelativeToolTip": "Polar RP\\HabboHotel\\Rooms\\Chat\\Commands\\Managers\\PurgeCommand.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAEwFMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:48:07.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "PingEvent.cs",
+              "DocumentMoniker": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Messages\\Net\\MusCommunication\\Incoming\\Handshake\\PingEvent.cs",
+              "RelativeDocumentMoniker": "Polar RP\\Messages\\Net\\MusCommunication\\Incoming\\Handshake\\PingEvent.cs",
+              "ToolTip": "C:\\Users\\JUAN\\Desktop\\Polar-RP-fix-database-errors\\Polar RP\\Messages\\Net\\MusCommunication\\Incoming\\Handshake\\PingEvent.cs",
+              "RelativeToolTip": "Polar RP\\Messages\\Net\\MusCommunication\\Incoming\\Handshake\\PingEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T01:40:46.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

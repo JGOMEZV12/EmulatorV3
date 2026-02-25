@@ -1,0 +1,31 @@
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Polar RP
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Polar RP.deps.json
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Polar RP.runtimeconfig.json
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\discord-webhook-client.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\DotNetty.Buffers.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\DotNetty.Common.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Fleck.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\log4net.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\System.Net.Http.Formatting.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.Logging.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.Options.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Microsoft.Extensions.Primitives.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\MoreLinq.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\MySqlConnector.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Nancy.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Newtonsoft.Json.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Newtonsoft.Json.Bson.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\notifique-me.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\Polly.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\System.Configuration.ConfigurationManager.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\System.Security.Permissions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\publish-linux\HabboRC4.dll

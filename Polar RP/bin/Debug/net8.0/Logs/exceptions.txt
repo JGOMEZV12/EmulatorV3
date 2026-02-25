@@ -1,0 +1,30 @@
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.GameClients.GameClient.Disconnect(Boolean ForcedDisconnect) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 592
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.GameClients.GameClient.Disconnect(Boolean ForcedDisconnect) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 592
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.GameClients.GameClient.Disconnect(Boolean ForcedDisconnect) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 592
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.GameClients.GameClient.Disconnect(Boolean ForcedDisconnect) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 592
+
+
+
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.GameClients.GameClient.Disconnect(Boolean ForcedDisconnect) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 567
+
+

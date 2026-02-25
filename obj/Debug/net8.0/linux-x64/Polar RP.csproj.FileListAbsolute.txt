@@ -1,0 +1,84 @@
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.deps.json
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.runtimeconfig.json
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\discord-webhook-client.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\DotNetty.Buffers.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\DotNetty.Common.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Fleck.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\log4net.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\System.Net.Http.Formatting.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\MoreLinq.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\MySqlConnector.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Nancy.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\notifique-me.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\Polly.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\System.Security.Permissions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\linux-x64\HabboRC4.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.csproj.AssemblyReference.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.csproj.Up2Date
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\refint\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.genruntimeconfig.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\linux-x64\ref\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.deps.json
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.runtimeconfig.json
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\discord-webhook-client.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\DotNetty.Buffers.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\DotNetty.Common.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Fleck.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\log4net.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\System.Net.Http.Formatting.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Logging.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Options.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\MoreLinq.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\MySqlConnector.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Nancy.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Newtonsoft.Json.Bson.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\notifique-me.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\Polly.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\System.Configuration.ConfigurationManager.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\System.Security.Permissions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\linux-x64\HabboRC4.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.csproj.AssemblyReference.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.csproj.Up2Date
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\refint\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\Polar RP.genruntimeconfig.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\linux-x64\ref\Polar RP.dll

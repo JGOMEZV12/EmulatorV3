@@ -1,0 +1,274 @@
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.exe
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.deps.json
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.runtimeconfig.json
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.pdb
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Buffers.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Common.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Fleck.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\log4net.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\MoreLinq.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Nancy.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\AStar.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\discord-webhook-client.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\HabboRC4.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\notifique-me.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\bin\Debug\net8.0\Polly.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.Up2Date
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\refint\Polar RP.dll
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.pdb
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Polar RP\Polar RP\obj\Debug\net8.0\ref\Polar RP.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\refint\Polar RP.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.pdb
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.exe
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.deps.json
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.runtimeconfig.json
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.pdb
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\discord-webhook-client.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Buffers.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Common.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Fleck.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\log4net.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\MoreLinq.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Nancy.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\notifique-me.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polly.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\HabboRC4.dll
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.Up2Date
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.genruntimeconfig.cache
+C:\Users\Administrador\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\ref\Polar RP.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.exe
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.deps.json
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.runtimeconfig.json
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.pdb
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\discord-webhook-client.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Buffers.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Common.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Fleck.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\log4net.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\MoreLinq.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Nancy.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\notifique-me.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polly.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\HabboRC4.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.Up2Date
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\refint\Polar RP.dll
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.pdb
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\ref\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.AssemblyReference.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\refint\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.exe
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.deps.json
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.runtimeconfig.json
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\discord-webhook-client.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Buffers.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\DotNetty.Common.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Fleck.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\log4net.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\MoreLinq.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Nancy.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\notifique-me.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\Polly.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\HabboRC4.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.csproj.Up2Date
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\Polar RP.genruntimeconfig.cache
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\obj\Debug\net8.0\ref\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\JUAN\Desktop\Polar RP\Polar RP\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.csproj.AssemblyReference.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\refint\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.csproj.AssemblyReference.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfoInputs.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.AssemblyInfo.cs
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.csproj.CoreCompileInputs.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\refint\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Polar RP.exe
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Polar RP.deps.json
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Polar RP.runtimeconfig.json
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\discord-webhook-client.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\DotNetty.Buffers.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\DotNetty.Common.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Fleck.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\log4net.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\MoreLinq.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Nancy.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\notifique-me.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\Polly.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\bin\Debug\net8.0\HabboRC4.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.csproj.Up2Date
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.genruntimeconfig.cache
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\ref\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar-RP-fix-database-errors\Polar RP\obj\Debug\net8.0\Polar RP.sourcelink.json

@@ -1,0 +1,7 @@
+
+Error en el hilo Tarea de ciclo de habitaci?n para habitaci?n 2: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Rooms.RoomUserManager.GetUserList() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomUserManager.cs:line 2697
+   at Polar.HabboHotel.Rooms.RoomUserManager.GetRoomUsers() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomUserManager.cs:line 725
+   at Polar.HabboHotel.Rooms.Room.ProcessRoom() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Room.cs:line 990
+

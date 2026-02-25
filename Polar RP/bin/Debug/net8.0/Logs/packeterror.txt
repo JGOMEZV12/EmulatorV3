@@ -1,0 +1,199 @@
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 83
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 73
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [2091] BODY: [0][0][0]A: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboRoleplay.Combat.Types.Gun.Execute(GameClient Client, GameClient TargetClient, Boolean HitClosest) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Combat\Types\Gun.cs:line 389
+   at Polar.Communication.Packets.Incoming.Users.GetSelectedBadgesEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Users\GetSelectedBadgesEvent.cs:line 439
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [2091] BODY: [0][0][0]A: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboRoleplay.Combat.Types.Gun.Execute(GameClient Client, GameClient TargetClient, Boolean HitClosest) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Combat\Types\Gun.cs:line 394
+   at Polar.Communication.Packets.Incoming.Users.GetSelectedBadgesEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Users\GetSelectedBadgesEvent.cs:line 439
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 83
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [2091] BODY: [0][0][0]A: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboRoleplay.Combat.Types.Gun.Execute(GameClient Client, GameClient TargetClient, Boolean HitClosest) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Combat\Types\Gun.cs:line 394
+   at Polar.Communication.Packets.Incoming.Users.GetSelectedBadgesEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Users\GetSelectedBadgesEvent.cs:line 439
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 83
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 83
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 83
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar avion[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 47
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar avion[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 47
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar avion[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 47
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar avion[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 47
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 42
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 42
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 42
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 42
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 42
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+
+
+Error en el paquete [1314] BODY: [0]:manejar[0][0][0][0]: 
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Polar.HabboHotel.Items.Item.get_IsWired() in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Items\Item.cs:line 640
+   at Polar.HabboHotel.Rooms.RoomItemHandling.SetFloorItem(GameClient Session, Item Item, Int32 newX, Int32 newY, Int32 newRot, Boolean newItem, Boolean OnRoller, Boolean sendMessage, Boolean updateRoomUserStatuses, Boolean ToDB, Item SpaceItem, Double newZ, Boolean PlacedByRoleplay) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\RoomItemHandling.cs:line 682
+   at Polar.HabboRoleplay.Misc.RoleplayManager.PutItemToRoom(GameClient Session, Int32 ItemId, Int32 roomid, Int32 BaseItem, Int32 X, Int32 Y, Int32 Rotation, Boolean ToDB) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboRoleplay\Misc\RoleplayManager.cs:line 1283
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.StopCar(GameClient Session) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 571
+   at Polar.HabboHotel.Rooms.Chat.Commands.Users.Generic.Interactions.Self.DriveCommand.Execute(GameClient Session, Room Room, String[] Params) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\Users\Generic\Interactions\Self\DriveCommand.cs:line 42
+   at Polar.HabboHotel.Rooms.Chat.Commands.CommandManager.Parse(GameClient Session, String Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\Rooms\Chat\Commands\CommandManager.cs:line 316
+   at Polar.Communication.Packets.Incoming.Rooms.Chat.ChatEvent.Parse(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\Incoming\Rooms\Chat\ChatEvent.cs:line 82
+   at Polar.Communication.Packets.PacketManager.TryExecutePacket(GameClient Session, ClientPacket Packet) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\Communication\Packets\PacketManager.cs:line 162
+   at Polar.HabboHotel.GameClients.GameClient.parser_onNewPacket(ClientPacket Message) in C:\Users\Administrador\Desktop\Polar RP\Polar RP\HabboHotel\GameClients\GameClient.cs:line 90
+

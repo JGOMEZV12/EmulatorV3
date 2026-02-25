@@ -1,0 +1,31 @@
+C:\Users\JUAN\Desktop\Polar RP\publish\Polar RP
+C:\Users\JUAN\Desktop\Polar RP\publish\Polar RP.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Polar RP.deps.json
+C:\Users\JUAN\Desktop\Polar RP\publish\Polar RP.runtimeconfig.json
+C:\Users\JUAN\Desktop\Polar RP\publish\Polar RP.pdb
+C:\Users\JUAN\Desktop\Polar RP\publish\discord-webhook-client.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\DotNetty.Buffers.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\DotNetty.Common.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Fleck.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\log4net.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\System.Net.Http.Formatting.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.Logging.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.Options.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\MoreLinq.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\MySqlConnector.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Nancy.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Newtonsoft.Json.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Newtonsoft.Json.Bson.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\notifique-me.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\Polly.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\System.Configuration.ConfigurationManager.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\System.Security.Permissions.dll
+C:\Users\JUAN\Desktop\Polar RP\publish\HabboRC4.dll
